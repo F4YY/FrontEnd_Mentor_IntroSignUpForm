@@ -110,7 +110,7 @@ return (
         {formik.touched.password && formik.errors.password ?
         (<h5><em>{formik.errors.password}</em></h5>) : null}
 
-        <Buttonclaimtrial type="submit">Submit</Buttonclaimtrial>
+        <Buttonclaimtrial type="submit">Claim your free trial</Buttonclaimtrial>
         <Termservices>
             <h4>
                 By clicking the button, you are agreeing to our&nbsp;<span>Terms and Services</span>
